@@ -3,6 +3,7 @@ all the characters in the given set must be unique.
 The code is written in java 8.
 
 Example:
+
 if we call the function with input string "ABC", the output will be:
 
 Number Of Subsets:
